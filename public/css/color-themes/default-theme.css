@@ -1,0 +1,232 @@
+/* Theme Color */
+
+a,
+.theme_color,
+.sec-title .title,
+.social-icon-one li a:hover,
+.team-block .inner-box .lower-box h3 a:hover,
+.team-block .inner-box .lower-box .designation,
+.header-top-one .top-left .links li .icon,
+.header-top-one .top-left .links li a:hover,
+.header-top-one .social-icon li a:hover,
+.property-block .inner-box .lower-content .upper-box .location,
+.property-block .inner-box .lower-content .upper-box h3 a:hover,
+.default-section .testimonial-column .owl-nav .owl-prev:hover,
+.default-section .testimonial-column .owl-nav .owl-next:hover,
+.testimonial-block .inner-box .rating,
+.list-style-one li .icon,
+.news-block .inner-box .content-column h3 a:hover,
+.news-block .inner-box .content-column .post-meta li .icon,
+.main-footer .info-column .title,
+.main-footer .footer-bottom .footer-nav li a,
+.header-top-two .top-right .links li .icon,
+.header-top-two .top-right .links li a:hover,
+.property-box .inner-box .price .like,
+.services-block .inner-box:hover .icon-box,
+.default-portfolio-item .overlay-inner .link:hover,
+.default-portfolio-item .overlay-inner h3 a:hover,
+.featured-block .inner-box .lower-content .upper-box .rating,
+.featured-block .inner-box .lower-content .upper-box h3 a:hover,
+.featured-block .inner-box .lower-content .upper-box .location,
+.default-section .news-column .inner-column .owl-nav .owl-prev:hover,
+.default-section .news-column .inner-column .owl-nav .owl-next:hover,
+.quality-block .inner-block .icon-box,
+.footer-style-two .footer-widget h2,
+.footer-style-two .links li a:hover,
+.footer-style-two .links li a:before,
+.services-block .inner-box h3 a:hover,
+.document-list li:before,
+.property-info-box .inner ul li .icon,
+.fact-counter .column .inner .icon,
+.testimonial-block-four .inner-block .lower-box .rating,
+.testimonial-section-two .owl-nav .owl-prev:hover,
+.testimonial-section-two .owl-nav .owl-next:hover,
+.agents-section .owl-nav .owl-prev:hover,
+.agents-section .owl-nav .owl-next:hover,
+.list-style-two li .icon,
+.social-icon-three li.follow,
+.social-icon-three li a:hover,
+.page-title .page-breadcrumb li a,
+.sidebar .properties-posts .post a:hover,
+.sidebar .properties-posts .post-info,
+.list-style-three li:before,
+.news-block-three .inner-box .lower-content .post-meta li .icon,
+.property-detail .inner-box .upper-box .location,
+.news-block-four .inner-box .content-column .inner-column .post-meta li .icon,
+.property-block-three .inner-box .content-column h3 a:hover,
+.property-block-three .inner-box .content-column .location,
+.footer-style-two .post-widget .post a, .footer-style-two .post-widget .post a:hover,
+.news-block-two .inner-box .lower-content .post-meta li .icon,
+.testimonial-block-three .inner-box .author-info .author-inner .author-designation,
+.testimonial-block-two .inner-box .author-info .author-inner .author-designation,
+.gallery-section-two .filters .filter-tabs .filter.active,
+.gallery-section-two .filters .filter-tabs .filter:hover,
+.gallery-mixitup-section .filters .filter-tabs .filter.active,
+.gallery-mixitup-section .filters .filter-tabs .filter:hover,
+.sidebar .search-box .form-group button,
+.blog-detail .inner-box .lower-content .post-meta li .icon,
+.news-block-six .inner-box .lower-content .read-more,
+.sidebar-page-container .comments-area .comment .comment-reply,
+.news-block-six .inner-box .lower-content .post-meta li .icon,
+.blog-detail .inner-box .lower-content .post-share-options .tags a:hover,
+.news-block-five .inner-box .content-column .inner-column .post-meta li .icon{
+	color:#71b100;
+}
+
+/*Background Color*/
+.scroll-to-top:hover,
+.btn-style-one:hover,
+.btn-style-three,
+.btn-style-two,
+.styled-pagination li.next a,
+.sec-title .separator:after,
+.header-top-one .top-right:before,
+.main-menu .navigation > li:hover > a,
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li > ul > li > ul,
+.main-menu .navigation > li > ul,
+.main-slider .sales-box .inner-box .detail,
+.main-footer .map-column .inner-column .map-info-box,
+.main-footer .info-column .separator:after,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.header-top-two .top-left .social-icon li a:hover,
+.property-box .inner-box .outer-icon,
+.property-search-form .search-btn:hover,
+.quality-block .inner-block:hover .icon-box,
+.social-icon-two li a:hover,
+.footer-style-two .form-column .form-group input[type="submit"],
+.footer-style-two .form-column .form-group button,
+.property-documents-section .owl-dots .owl-dot:hover,
+.property-documents-section .owl-dots .owl-dot.active,
+.news-block-two .inner-box:hover .lower-content,
+.sidebar .sidebar-title .separator:after,
+.news-block-three .inner-box:hover .lower-content,
+.sidebar .popular-tags a:hover,
+.sidebar-page-container .group-title .separator:after,
+.news-block-six .inner-box:hover .lower-content,
+.news-block-five .inner-box:hover .content-column .inner-column,
+.news-block-four .inner-box:hover .content-column .inner-column,
+.news-section .owl-dots .owl-dot:hover, .news-section .owl-dots .owl-dot.active,
+.testimonial-section .owl-dots .owl-dot:hover, .testimonial-section .owl-dots .owl-dot.active,
+.featured-section .owl-dots .owl-dot:hover, .featured-section .owl-dots .owl-dot.active,
+.property-tabs-section .property-search-tab .property-tabs .tab-btns .tab-btn:hover,
+.property-tabs-section .property-search-tab .property-tabs .tab-btns .tab-btn.active-btn,
+.featured-block .inner-box .image a.wishlist{
+	background-color:#71b100;
+}
+
+
+/*Border Color*/
+
+.btn-style-one,
+.main-slider,
+.btn-style-two,
+.btn-style-two:hover,
+.btn-style-three,
+.header-style-three,
+.social-icon-two li a:hover,
+.services-block .inner-box:hover,
+.main-header .info-box .icon-box,
+.property-search-form .search-btn:hover,
+.ui-state-active, .ui-widget-content .ui-state-active,
+.main-header .search-box-outer .dropdown-menu,
+.main-header .search-panel input:focus,
+.quality-block .inner-block:hover .icon-box,
+.main-header .search-panel select:focus,
+.main-footer .footer-bottom .footer-nav li,
+.header-top-two .top-left .social-icon li a:hover,
+.property-block-two .inner-box .content-column .text p.blockquote,
+.default-section .news-column .inner-column .owl-nav .owl-prev:hover,
+.default-section .news-column .inner-column .owl-nav .owl-next:hover,
+.property-search-form .form-group .ui-selectmenu-button.ui-button:focus,
+.testimonial-section-two .owl-nav .owl-prev:hover,
+.testimonial-section-two .owl-nav .owl-next:hover,
+.agents-section .owl-nav .owl-prev:hover,
+.agents-section .owl-nav .owl-next:hover,
+.default-form input[type="text"]:focus,
+.default-form input[type="email"]:focus,
+.default-form input[type="password"]:focus,
+.default-form select:focus,
+.archive-list li a:hover,
+.default-form textarea:focus,
+.team-form input[type="text"]:focus,
+.team-form input[type="email"]:focus,
+.team-form input[type="password"]:focus,
+.team-form select:focus,
+.property-detail .inner-box .text blockquote,
+.team-form textarea:focus,
+.popular-category-list li a:hover,
+.news-block-six .inner-box:hover .lower-content,
+.blog-detail .inner-box .lower-content .text blockquote,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.contact-form input[type="text"]:focus,
+.contact-form input[type="email"]:focus,
+.contact-form input[type="password"]:focus,
+.contact-form select:focus,
+.contact-form textarea:focus,
+.map-section .google-map,
+.property-tabs-section .property-search-tab .property-tabs .tab-btns .tab-btn{
+	border-color:#71b100;
+}
+
+.featured-block .inner-box .image a.wishlist:before{
+	border-bottom:12px solid #71b100;	
+}
+
+.featured-block .inner-box .image a.wishlist:after{
+	border-top:12px solid #71b100;	
+}
+
+.main-slider .sales-box .inner-box .detail:before{
+	border-bottom-color:#71b100;
+}
+
+.property-box .inner-box .outer-icon:after{
+	border-left-color:#71b100;
+}
+
+/*RGBA Color Light*/
+
+.house-block .inner-box .image .overlay-box .purchased{
+	background-color:rgba(113,177,0,0.50);
+}
+
+/*RGBA Color Dark*/
+
+.property-block .inner-box .image .sale,
+.featured-block .inner-box .image .sale,
+.property-block-three .inner-box .image-column .image .sale{
+	background-color:rgba(113,177,0,0.70);
+}
+
+@media only screen and (max-width: 767px){
+	
+	.main-menu .navbar-header .navbar-toggle{
+		border-color:#71b100;
+	}
+	
+	.main-menu .navbar-header .navbar-toggle,
+	.main-menu .navbar-collapse > .navigation,
+	.main-menu .navbar-collapse > .navigation > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+	.main-menu .navbar-collapse > .navigation > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+	.main-menu .navbar-collapse > .navigation > li > a:hover,
+	.main-menu .navbar-collapse > .navigation > li > a:active,
+	.main-menu .navbar-collapse > .navigation > li > a:focus,
+	.main-menu .navbar-collapse > .navigation > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+	.main-menu .navbar-collapse > .navigation > li.current > a,
+	.main-menu .navbar-collapse > .navigation > li.current-menu-item > a,
+	.header-style-two.inner-header .main-menu .navigation > li > a{
+		background-color:#71b100;
+	}
+	
+}
